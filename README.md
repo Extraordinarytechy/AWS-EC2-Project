@@ -1,4 +1,4 @@
-# AWS-EC2-INSTANCE
+# AWS-EC2-Project
 
 # **AWS EC2 Instance Management**  
 
