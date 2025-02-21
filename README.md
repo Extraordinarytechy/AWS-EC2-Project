@@ -6,10 +6,10 @@
 This project provides a simple Python-based interface for managing AWS EC2 instances. It allows users to **start, stop, and check the status** of their EC2 instances using **Boto3 (AWS SDK for Python)**.  
 
 ## **Features**  
-✅ Start an EC2 instance  
-✅ Stop an EC2 instance  
-✅ Check the current status of an instance  
-✅ Uses **Boto3** for AWS API interactions  
+• Start an EC2 instance  
+• Stop an EC2 instance  
+• Check the current status of an instance  
+• Uses **Boto3** for AWS API interactions  
 
 ## **Setup Instructions**  
 
@@ -54,9 +54,9 @@ python ec2_manager.py status
 
 ## **Example Output**  
 ```bash
-Instance i-08b2c34c763ca44a3 is running.  
-Starting instance i-08b2c34c763ca44a3...  
-Stopping instance i-08b2c34c763ca44a3...  
+Instance i-083747484 is running.  
+Starting instance i-08b4c763ca44a3...  
+Stopping instance i-08bc763ca43...  
 ```  
 
 ## **Project Structure**  
@@ -69,13 +69,13 @@ AWS-EC2-INSTANCE/
 ```  
 
 ## **Contributing**  
-Feel free to fork this repository** and submit pull requests for improvements.  
+Feel free to fork this **repository** and submit pull requests for improvements.  
 
 ## License
 This project is licensed under the MIT License.  
 
 ## **Connect with Me**  
-📩 LinkedIn: [Your Profile Link]  
-🚀 GitHub: [Extraordinarytechy](https://github.com/Extraordinarytechy)  
+📩 LinkedIn: https://linkedin.com/in/extraordinarytehy 
+🚀 GitHub: Ajay kumar (https://github.com/Extraordinarytechy)  
 
 -
