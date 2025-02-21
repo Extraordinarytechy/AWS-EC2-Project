@@ -75,7 +75,7 @@ Feel free to fork this **repository** and submit pull requests for improvements.
 This project is licensed under the MIT License.  
 
 ## **Connect with Me**  
-📩 LinkedIn: https://linkedin.com/in/extraordinarytehy 
+📩 LinkedIn: https://linkedin.com/in/extraordinarytechy 
 🚀 GitHub: Ajay kumar (https://github.com/Extraordinarytechy)  
 
 -
